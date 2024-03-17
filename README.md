@@ -1,2 +1,4 @@
-# Bank-s-Customer-Churn-Prediction-CNN
-Customer Churn Prediction project with Artificial Neural Networks, businesses can enhance their strategic decision-making processes, minimize revenue loss, and foster stronger customer relationships.
+# Classification Project with Machine Learning
+
+Welcome to my Classification project repository! 
+In this project, I have implemented various Classification techniques to predict a target variable based on a set of input features. 
