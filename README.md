@@ -1,4 +1,4 @@
-# Classification Project with Machine Learning
+# End-to-End NLP Projects
 
-Welcome to my Classification project repository! 
-In this project, I have implemented various Classification techniques to predict a target variable based on a set of input features. 
+Welcome to the "End-to-End NLP Projects" repository! 
+Here, you'll find a collection of practical Natural Language Processing (NLP) projects aimed at understanding and leveraging text data.
